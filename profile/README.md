@@ -35,7 +35,7 @@ We welcome developers of all skill levels to join Yugnetra. Whether you're a sea
 - [Github](https://github.com/RitanshRajput)
 - [Linkedin](linkedin.com/in/ritansh-rajput)
 
-***Yuvraj Singh (Newbie)***
+***Yuvraj Singh (Web Developer)***
 - [Github](https://github.com/yuvraj-singh-lodhi)
 - [Linkedin](linkedin.com/in/yuvraj-singh-lodhi-5ba852218)
 

@@ -31,14 +31,14 @@ We welcome developers of all skill levels to join Yugnetra. Whether you're a sea
 
 ### Our Founders :
 
-***Ritansh Rajput (Frontend/ UI-UX)***
+😂***Ritansh Rajput (Frontend/ UI-UX)***
 - [Github](https://github.com/RitanshRajput)
 - [Linkedin](linkedin.com/in/ritansh-rajput)
 
-***Yuvraj Singh (Web Developer)***
+😎***Yuvraj Singh (Web Developer)***
 - [Github](https://github.com/yuvraj-singh-lodhi)
 - [Linkedin](linkedin.com/in/yuvraj-singh-lodhi-5ba852218)
 
-***Alok Urmaliya (FullStack)***
+🥸***Alok Urmaliya (FullStack)***
 - [Github](https://github.com/alok-urmaliya)
 - [Linkedin](linkedin.com/in/alok-urmaliya-298753212)

@@ -30,6 +30,9 @@ We welcome developers of all skill levels to join Yugnetra. Whether you're a sea
 📧 yugnetra@gmail.com
 
 ### Our Founders :
+***Ritansh Singh (FullStack Developer)***
+- [Github](https://github.com/RitanshRajput)
+- [Linkedin](https://www.linkedin.com/in/ritansh-rajput/)
 
 ***Yuvraj Singh (FullStack Developer)***
 - [Github](https://github.com/yuvraj-singh-lodhi)
